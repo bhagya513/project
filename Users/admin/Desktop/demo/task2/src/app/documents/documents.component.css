@@ -1,0 +1,32 @@
+.doc-wrapper{
+    margin:auto;
+    width: 30%;
+    height: 100%; 
+    text-align:center;
+     
+}
+input {
+        margin-bottom:1px;
+        text-align: center;
+        
+}
+.doc-crd {
+    background-color: rgb(215, 234, 250);
+    
+}
+#card-imp {
+    height: 100vh;
+    border-style: none;
+}
+label {
+    float: left;
+    margin-left:auto;    
+}
+.card1 {
+    background-color: rgb(215, 234, 250);
+      
+}
+button{
+    width: 30%;
+    border-radius: 15px;
+}

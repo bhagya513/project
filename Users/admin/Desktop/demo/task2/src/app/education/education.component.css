@@ -1,0 +1,50 @@
+.education-wrapper{
+    margin:auto;
+    width: 30%;
+    height: 100vh;
+    text-align:center;
+     
+}
+input {
+        margin-bottom:1px;
+        text-align: center;
+        height: auto;
+        width: 300px;
+}
+.ed-crd {
+    background-color: rgb(215, 234, 250);
+    
+}
+#card-imp {
+    height: 100vh;
+    border-style: none;
+}
+
+input[type="radio"] {
+    margin-right: 0;
+}
+button {
+    margin-top: 5px;
+    
+}
+.label-name-select {
+    text-align:left;
+    font-size: 14px;
+        }
+label {
+    float:left;
+    margin-left:auto;
+}
+input[type="text"] {
+    width:300px;
+    text-align: left;
+}
+.card1{
+    background-color: rgb(215, 234, 250);
+}
+button{
+    width: 30%;
+    margin-top: 5px;
+    border-radius: 15px;
+}
+

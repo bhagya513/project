@@ -1,0 +1,28 @@
+.card1 {
+    background-color: rgb(215, 234, 250);;
+}
+.register-wrapper {
+    height: 100%;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    
+}
+label {
+float: left;
+}
+.crd {
+    background-color:  rgb(215, 234, 250);
+}
+.rbtn {
+    margin-left:2px;
+}
+button {
+    width: 30%;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+#card-imp {
+    height: 100vh;
+    border-style: none;
+}
